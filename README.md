@@ -1,2 +1,2 @@
 # hacktober-fun
-hacktoberfest 2018
+hacktoberfest 2019
